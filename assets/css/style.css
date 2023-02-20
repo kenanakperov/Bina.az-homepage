@@ -1,0 +1,99 @@
+.header{
+    padding-left: 70%;
+}
+
+.header-navbar{
+    background-color: chocolate;
+}
+#search{
+    background-color: chocolate;
+
+}
+/* .listok{
+    width: 960px;
+    height: 234px;
+}
+.list1{
+    width: 183.64px;
+    height: 180px;
+    padding: 16px 13px 15px 10px;
+}
+.list2{
+    width: 183.64px;
+    height: 180px;
+    padding: 16px 13px 15px 10px;
+}
+.list3{
+    width: 183.64px;
+    height: 180px;
+    padding: 16px 13px 15px 10px;
+}
+.list4{
+    width: 183.64px;
+    height: 180px;
+    padding: 16px 13px 15px 10px;
+} */
+.search-button{
+    background-color: blue;
+}
+.support{
+    background-color: gray;
+}
+#elan-yerlesdir{
+    border: 2px solid ;
+    background-color: green;
+}
+.son-elan{
+    border: 2px solid;
+}
+.VIP-elan{
+    border: 2px solid;
+}
+.agentlikler{
+    border: 2px solid;
+}
+.yasayis-kompleksleri{
+    border: 2px solid;
+}
+.premium-elanlar{
+    border: 2px solid;
+}
+.yeni-tikililer{
+    border: 2px solid;
+}
+.kohne-tikililer{
+    border: 2px solid;
+}
+.villalar{
+    border: 2px solid;
+}
+.ofisler{
+    border: 2px solid;
+}
+.baglar{
+    border: 2px solid;
+}
+.qarajlar{
+    border: 2px solid;
+}
+.torpaq{
+    border: 2px solid;
+}
+.obyektler{
+    border: 2px solid;
+}
+#social{
+    background-color: beige;
+}
+#rayonlar{
+    background-color: beige;
+}
+.azerbaijian-all{
+    background-color: beige;
+}
+.policy{
+    background-color: beige;
+}
+.footer{
+    background-color: green;
+}
